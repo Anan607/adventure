@@ -1,0 +1,119 @@
+header{
+    /* border-bottom: 2px solid rgb(229, 235, 220); */
+    padding-top: 15px;
+}
+body{
+     background: url(../images/journey.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    height: 100vh;
+   */
+    
+   
+}
+
+body{
+    font-size: 16px;
+    font-weight: 400;
+    font-family: sans-serif;
+
+}
+.container{
+    margin: 0 auto;
+    /* border: 2px solid blue; */
+    width: 90%;
+    overflow: hidden;
+}
+.logo{
+    width: 10%;
+    float: left;
+    margin-top: -10px;
+    padding-left: 250px;
+    /* color: white; */
+    /* border: 2px solid black; */
+}
+.logo h1{
+    text-transform: uppercase;
+    font-size: 20px;
+}   
+.logo h1 span{
+    width: 100%;
+    font-size: 16px;
+    font-weight: 300;
+    text-align: center;
+
+}
+.menu{
+    float: right;
+    width: 50%;
+    /* border: 1px solid green; */
+}
+.menu ul{
+    float: right;
+}
+.menu ul:last-child button{
+    border-radius: 17px;
+    background: none;
+    border: 2px white solid;
+    padding: 5px 12px 5px 12px;
+    color: white;
+    font-weight: 600;
+    margin-top: -6%;
+
+}
+
+.menu ul li{
+    float: left;
+    text-decoration: none;
+    list-style: none;
+}
+
+.menu ul li a{
+    font-family:sans-serif ;
+    font-size: 16px;
+    font-weight: 400;
+    color: #172d5c ;
+    text-decoration: none;
+    padding: 0 10px;
+    display: inline-block;
+    color: white;
+}
+.menu ul li:last-child a{
+    padding-right: 0%;
+}
+/* header end */
+
+/* slider start */
+
+.gift{
+    color: white;
+    text-align: center;
+}
+section{
+    padding: 140px 80px;
+    padding-left: 230px;
+   
+
+}
+h1{
+    font-size: 55px;
+}
+h2{
+    contr
+    font-family:  ;
+}
+
+.button{
+    font-size: 15px;
+    border-radius: 20px;
+    padding: 3px 15px;
+    background-color:#fb2056;
+    color: white;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+
+
+
+/* slider end */
